@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://C:\Users\Vicke\Documents\github repository\testingv2\GoogleMapsNearbyPlacesDemo\MapsDemo.iml" filepath="C:\Users\Vicke\Documents\github repository\testingv2\GoogleMapsNearbyPlacesDemo\MapsDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/elderlyApp" filepath="$PROJECT_DIR$/elderlyApp" />
-      <module fileurl="file://$PROJECT_DIR$/sunLifeApplication/app.iml" filepath="$PROJECT_DIR$/sunLifeApplication/app.iml" />
+      <module fileurl="file://C:\Users\Vicke\Documents\github repository\testingv2\elderlyApp\sunLifeApplication\app.iml" filepath="C:\Users\Vicke\Documents\github repository\testingv2\elderlyApp\sunLifeApplication\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elderlyApp.iml" filepath="$PROJECT_DIR$/elderlyApp.iml" />
+      <module fileurl="file://C:\Users\Vicke\Documents\github repository\testingv2\elderlyApp\elderlyApp" filepath="C:\Users\Vicke\Documents\github repository\testingv2\elderlyApp\elderlyApp" />
+      <module fileurl="file://$PROJECT_DIR$/sunLifeApplication/sunLifeApplication.iml" filepath="$PROJECT_DIR$/sunLifeApplication/sunLifeApplication.iml" />
     </modules>
   </component>
 </project>

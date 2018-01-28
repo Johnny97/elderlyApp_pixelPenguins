@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.priyanka.mapsdemo">
+    package="com.example.vickel.elderApp">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -22,21 +22,22 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name="com.example.vickel.elderApp.MapsActivity"
             android:label="@string/title_activity_maps" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.vickel.elderApp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".phonebookActivity" />
-        <activity android:name=".HealthActivity" />
-        <activity android:name=".MedicationActivity" />
-        <activity android:name=".SetMedActivity" />
+        <activity android:name="com.example.vickel.elderApp.phonebookActivity" />
+        <activity android:name="com.example.vickel.elderApp.HealthActivity" />
+        <activity android:name="com.example.vickel.elderApp.MedicationActivity" />
+        <activity android:name="com.example.vickel.elderApp.SetMedActivity" />
         <activity android:name=".setDoctorActivity" />
-        <activity android:name=".SetDoctorActivity"></activity>
+        <activity android:name="com.example.vickel.elderApp.SetDoctorActivity" />
+        <activity android:name="com.example.vickel.elderApp.ScheduleActivity"></activity>
     </application>
 
 </manifest>
