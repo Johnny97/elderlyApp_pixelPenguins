@@ -1,0 +1,52 @@
+<resources>
+    <string name="empty"></string>
+    <string name="app_name">Sun life - elderly care</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Sun Life app</string>
+    <string name="health">Health</string>
+    <string name="map">Maps</string>
+    <string name="teamName">Pixel Penguins</string>
+    <string name="phonebook">Phone Book</string>
+    <string name="callEmergency">Police/Ambulance</string>
+    <string name="callDoctor">Doctor</string>
+    <string name="callFamily">Family</string>
+    <string name="phoneInfo">Press the button to make a call</string>
+    <string name="setAlarm">Set Alarm</string>
+    <string name="ViewSchedule">View schedule</string>
+    <string name="setMedAlarm">Set medication alarm</string>
+    <string name="setMed">Set medication time</string>
+    <string name="setDoctor">Set doctor appointments</string>
+    <string name="reminder"><b>Choose a The frequence of reminder</b></string>
+    <string name="medicationName">Name of medication/pills</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name: </string>
+    <string name="Date">Date: </string>
+    <string name="Location">Location: </string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+
+    <string name="frequence">Choose a repeating sequence</string>
+
+    <string-array name="frequence_arrays">
+        <item>1 hour</item>
+        <item>2 hour</item>
+        <item>3 hour</item>
+        <item>4 hour</item>
+        <item>5 hour</item>
+        <item>6 hour </item>
+        <item>7 hour</item>
+        <item>7 hour</item>
+        <item>8 hour</item>
+        <item>9 hour</item>
+        <item>10 hour</item>
+        <item>11 hour</item>
+        <item>Daily</item>
+        <item>weekly</item>
+        <item>Monthly</item>
+
+
+    </string-array>
+
+
+</resources>

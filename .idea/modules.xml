@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Vicke\Documents\github repository\testingv2\GoogleMapsNearbyPlacesDemo\MapsDemo.iml" filepath="C:\Users\Vicke\Documents\github repository\testingv2\GoogleMapsNearbyPlacesDemo\MapsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elderlyApp" filepath="$PROJECT_DIR$/elderlyApp" />
+      <module fileurl="file://$PROJECT_DIR$/sunLifeApplication/app.iml" filepath="$PROJECT_DIR$/sunLifeApplication/app.iml" />
+    </modules>
+  </component>
+</project>
